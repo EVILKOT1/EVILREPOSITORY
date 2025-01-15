@@ -1,0 +1,18 @@
+
+
+{
+  "name": "Toyota AE86 Token",
+  "symbol": "AE86",
+  "description": "Токен с изображением Toyota AE86.",
+  "image": "https://raw.githubusercontent.com/EVILKOT1/EVILREPOSITORY/refs/heads/main/DALL%C2%B7E%202025-01-16%2001.34.07%20-%20A%20digital%20art%20illustration%20of%20a%20Toyota%20AE86%20car%2C%20designed%20in%20a%20clean%20and%20minimalist%20style%20suitable%20for%20a%20token%20logo.%20The%20image%20is%20square%2C%20with%20a%20512x5.webp",
+  "attributes": [
+    {
+      "trait_type": "Car Model",
+      "value": "AE86"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Digital Token"
+    }
+  ]
+}
